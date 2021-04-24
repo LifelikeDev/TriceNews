@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 A digital cart web app for online shopping needs. This app is built with React using hooks
 >>>>>>> 6c876fde6012b4ac643a55da76d5dcbc841acbb2
+=======
+# TriceNews
+Get top headlines newsfeed from around the global served to you in one single app.
+
+TriceNews is a SPA built with Reactjs making use of hooks such as useState, useEffect, useCallback, useRef, etc., as well as contextAPI and React Router.
+>>>>>>> 20cec1590e1e022d9032994cec972b4021ac9ef3
